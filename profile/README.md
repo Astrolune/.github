@@ -1,1 +1,1 @@
-[Wassup](https://github.com/Astrolune/.github/blob/main/hi.jpg)
+https://github.com/Astrolune/.github/blob/main/hi.jpg

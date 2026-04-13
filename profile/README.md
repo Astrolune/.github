@@ -1,1 +1,1 @@
-https://github.com/Astrolune/.github/blob/main/hi.jpg
+![hi](https://github.com/Astrolune/.github/blob/main/hi.jpg)
